@@ -16,11 +16,12 @@
 ### Core Technologies
 
 <div display="flex">
-<code><a href="https://www.linux.com/" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a></code>
-<code><a href="https://www.python.org/" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a></code>
-<code><a href="https://cplusplus.com/" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a></code>
-<code><a href="https://www.gnu.org/software/bash/" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></a></code>
-<code><a href="https://www.raspberrypi.com/" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" /></a></code>
+<code><a href="https://www.linux.com/" title="Linux" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a></code>
+<code><a href="https://www.python.org/" title="Python" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a></code>
+<code><a href="https://www.cprogramming.com/" title="C" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a></code>
+<code><a href="https://www.gnu.org/software/bash/" title="BASH" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></a></code>
+<code><a href="https://go.dev/" title="GO" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /></a></code>
+<code><a href="https://www.raspberrypi.com/" title="RaspberryPi" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" /></a></code>
 </div>
 
 
@@ -32,6 +33,7 @@
 <code><a href="https://github.com/" title="GitHub" referrerPolicy="no-referrer" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/14295796/186387264-69660e5f-ff4f-43d6-90f6-c6b9f7abe2d8.svg"><img height="30" src="https://user-images.githubusercontent.com/14295796/186387042-ca54395f-0809-41ec-81bc-d52cd709aba8.svg"></picture></a></code>
 <code><a href="https://www.docker.com/" title="Docker" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a></code>
 <code><a href="https://code.visualstudio.com/" title="Visual Studio Code" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a></code>
+<code><a href="https://gcc.gnu.org/" title="gcc" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" /></a></code>
 <code><a href="https://www.postgresql.org/" title="PostgreSQL" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></a></code>
 </div>
 </br>
